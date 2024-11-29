@@ -21,11 +21,4 @@ Outcome:
 This project demonstrated my ability to manage complex data queries, extract relevant information, and present it in a compelling way. It also helped me refine my skills in SQL, data visualization, and business communication, all of which are essential for data-driven decision-making in the corporate world.
 
 How to Use:
-
-SQL Queries:
-
-Open the SQL Queries folder.
-Run the SQL scripts in your MySQL environment to extract the necessary data.
-Power BI Visualizations:
-
 Open the Power BI files in Power BI Desktop to view the visualizations and insights.
