@@ -1,4 +1,4 @@
-# Credit_Carrd_Project
+# Credit_Card_Project
 
 Project Objective 
 To develop a comprehensive credit card weekly dashboard that provides real time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
@@ -21,4 +21,13 @@ Outcome:
 This project demonstrated my ability to manage complex data queries, extract relevant information, and present it in a compelling way. It also helped me refine my skills in SQL, data visualization, and business communication, all of which are essential for data-driven decision-making in the corporate world.
 
 How to Use:
+click on Credit_card_project.pbix file
+Click on raw file
+Dasboard file is downloaded
 Open the Power BI files in Power BI Desktop to view the visualizations and insights.
+
+![image](https://github.com/user-attachments/assets/e2794253-d70a-4d78-96ee-7a065e1dfbd6)
+
+![image](https://github.com/user-attachments/assets/489f617d-2314-4a5b-8a73-f6ced57c9eaf)
+
+
